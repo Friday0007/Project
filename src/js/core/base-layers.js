@@ -1,8 +1,3 @@
-/*
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
-
 import app from "./../app.js";
 import config from "./../config.js";
 import Base_gui_class from "./base-gui.js";
@@ -15,33 +10,6 @@ import alertify from "./../../../node_modules/alertifyjs/build/alertify.min.js";
 
 var instance = null;
 
-/**
- * Layers class - manages layers. Each layer is object with various types. Keys:
- * - id (int)
- * - link (image)
- * - parent_id (int)
- * - name (string)
- * - type (string)
- * - x (int)
- * - y (int)
- * - width (int)
- * - height (int)
- * - width_original (int)
- * - height_original (int)
- * - visible (bool)
- * - is_vector (bool)
- * - hide_selection_if_active (bool)
- * - opacity (0-100)
- * - order (int)
- * - composition (string)
- * - rotate (int) 0-359
- * - data (various data here)
- * - params (object)
- * - color {hex}
- * - status (string)
- * - filters (array)
- * - render_function (function)
- */
 class Base_layers_class {
 	constructor() {
 		//singleton

@@ -9,7 +9,7 @@ import Tools_settings_class from './../tools/settings.js';
 /** 
  * manages files / new
  * 
- * @author ViliusL
+ * @author Vaibhav
  */
 class File_new_class {
 

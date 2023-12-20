@@ -4,11 +4,6 @@ import GUI_colors_class from './../gui/gui-colors.js';
 
 const Helper = new Helper_class();
 
-/**
- * This input opens a custom color picker dialog that is more tightly integrated with the application (swatch selection, etc).
- * It can also handle alpha values, whereas native color input can't.
- */
-
 (function ($) {
 
 	const template = `

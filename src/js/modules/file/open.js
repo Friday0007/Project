@@ -15,7 +15,7 @@ var instance = null;
 /** 
  * manages files / open
  * 
- * @author ViliusL
+ * @author Vaibhav
  */
 class File_open_class {
 

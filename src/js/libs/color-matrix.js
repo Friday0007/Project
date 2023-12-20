@@ -1,7 +1,7 @@
 /**
  * Color Matrix
  *
- * A simplification of the color matrix class provided by
+ * A simplification of the color matrix class taken from 
  * EaselJS
  *
  * www.createjs.com/docs/easeljs/files/easeljs_filters_ColorFilter.js.html#l41

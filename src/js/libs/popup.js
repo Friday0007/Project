@@ -1,43 +1,3 @@
-/**
- * user dialogs library
- * 
- * @author ViliusL
- * 
- * Usage:
- * 
- * import Dialog_class from './libs/popup.js';
- * var POP = new popup();
- * 
- * var settings = {
- *		title: 'Differences',
- *		comment: '',
- *		preview: true,
- *		className: '',
- *		params: [
- *			{name: "param1", title: "Parameter #1:", value: "111"},
- *			{name: "param2", title: "Parameter #2:", value: "222"},
- *		],
- *		on_load: function(params){...},
- *		on_change: function(params, canvas_preview, w, h){...},
- *		on_finish: function(params){...},
- *		on_cancel: function(params){...},
- * };
- * this.POP.show(settings);
- * 
- * Params types:
- * - name		type				example
- * - ---------------------------------------------------------------
- * - name		string				'parameter1'
- * - title		string				'enter value:'
- * - type		string				'select', 'textarea', 'color'
- * - value		string				'314'
- * - values		array fo strings	['one', 'two', 'three']
- * - range		numbers interval	[0, 255]
- * - step		int/float			1	
- * - placeholder	text			'enter number here'
- * - html		html text			'<b>bold</b>'
- * - function	function			'custom_function'
- */
 import './../../css/popup.css';
 import Base_layers_class from './../core/base-layers.js';
 import Base_gui_class from './../core/base-gui.js';
@@ -338,10 +298,6 @@ class Dialog_class {
 		return response;
 	}
 
-	/**
-	 * show popup window.
-	 * used strings: "Ok", "Cancel", "Preview"
-	 */
 	show_action() {
 		this.id = this.getRandomInt(0, 999999999);
 		if (this.active == true) {

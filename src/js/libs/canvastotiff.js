@@ -1,10 +1,3 @@
-/*!
-	canvas-to-tiff version 1.0.0
-	By Epistemex (c) 2015-2016
-	www.epistemex.com
-	MIT License (this header required)
-*/
-
 /**
  * Static helper object that can convert a CORS-compliant canvas element
  * to a 32-bits TIFF file (buffer, Blob and data-URI). The TIFF is by

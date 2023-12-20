@@ -2,11 +2,6 @@ import Helper_class from './../../libs/helpers.js';
 
 var Helper = new Helper_class();
 
-/**
- * The purpose of using this class vs a native input[type="number"] is for custom styling and
- * to allow for gestures on mobile that makes it easier to use with a thumb on a touch screen (future implementation)
- */
-
 (function ($) {
 
     const template = `

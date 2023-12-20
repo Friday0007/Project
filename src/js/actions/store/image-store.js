@@ -16,7 +16,7 @@ let imageIdCounter = 0;
 let database = null;
 let databaseInitPromise = null;
 const tabPingInterval = 60000;
-const assumeTabIsClosedTimeout = 300000; // Inactive tabs setInterval is slowed down in most browsers, this should be significantly higher than tabPingInterval
+const assumeTabIsClosedTimeout = 300000; 
 
 export default {
     /**

@@ -1,0 +1,16 @@
+name of the website miniPaint an online image editor created using html, css, js, php, json this website helps to edit, create images or banners, graphics, etc, with user-friendly interface
+
+it has 8 modules like edit, effects, file, help, image, layer, tools, view
+in edit it has basic - copy, paste, redo, selection, undo actions for editing image
+in effects it has different effects like blur, sharpen, borders, black_and_white, etc 
+in file it has file creating option like new, open, print, quickload, quicksave, save 
+in help it has about, shortcut
+in image it has resizing image option, flip, opacity, auto_adjust, etc
+in layer it has all layer editing option like clear, delete, flatten, merge, etc
+in tools it has content_fill, keypoints, replace_color, search image, etc
+in view it has full_screen, grid, guides, ruler, zoom option for editing images
+
+on left side of the UI it has tools panel which contain several tools
+like blur, brush, bulge_pinch, clone, crop, desaturate, eraser, fill, gradient, magic_eraser, media, pencil, pick_color, select, etc for editing image
+
+it has help and shortcuts for user to understand the system better it just looked like photoshop's UI not exactly 

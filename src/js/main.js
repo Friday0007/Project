@@ -1,8 +1,3 @@
-/**
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
-
 //css
 import './../css/reset.css';
 import './../css/utility.css';

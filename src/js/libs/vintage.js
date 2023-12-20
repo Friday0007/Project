@@ -4,7 +4,7 @@ import ImageFilters from './imagefilters.js';
 /**
  * adds vintage effect
  * 
- * @author ViliusL
+ * @author Vaibhav
  * 
  * Functions:
  * - adjust_color

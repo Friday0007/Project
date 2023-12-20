@@ -1,0 +1,35 @@
+i have created a online image editor using html, css, js, php and json this is an open source project which can be use to create and edit images, logo, banners etc it is photoshop alternative and free to use operates directly in the browser. You can create images, paste from the clipboard (ctrl+v) or upload from the computer (using menu or drag & drop). Nothing will be sent to any server. Everything stays in your browser. 
+
+it has the following features: Files: open images, directories, URL, data URL, drag and drop, save (PNG, JPG, BMP, WEBP, animated GIF, TIFF, JSON (layers data)), print. Edit: Undo, cut, copy, paste, selection, paste from clipboard. Image: information, EXIF, trim, zoom, resize (Hermite resample, default resize), rotate, flip, color corrections (brightness, contrast, hue, saturation, luminance), auto adjust colors, grid, histogram, negative. Layers: multiple layers system, differences, merge, flatten, Transparency support.
+
+Effects: Black and White, Blur (box, Gaussian, stack, zoom), Bulge/Pinch, Denoise, Desaturate, Dither, Dot Screen, Edge, Emboss, Enrich, Gamma, Grains, GrayScale, Heatmap, JPG Compression, Mosaic, Oil, Sepia, Sharpen, Solarize, Tilt Shift, Vignette, Vibrance, Vintage, Blueprint, Night Vision, Pencil, also Instagram Filters: 1977, Aden, Clarendon, Gingham, Inkwell, Lo-fi, Toaster, Valencia, X-Pro II.
+
+Tools: pencil, brush, magic wand, erase, fill, color picker, letters, crop, blur, sharpen, desaturate, clone, borders, sprites, key-points, color zoom, replace color, restore alpha, content fill.
+
+Help: keyboard shortcuts, translations.
+
+
+it has following tools:
+
+1. select object tool
+2. marquee tool
+3. brush tool
+4. pencil tool
+5. eye dropper tool
+6. earser
+7. magic earser tool
+8. paint bucket
+9. shape tool
+10. search image
+11. text tool
+12. gradient 
+13. stamp tool
+14. crop
+15. blur
+16. sharpen
+17. desaturate
+18. bulge/ pinch tool
+
+
+On the right side it has preview tab where we can zoom in/out the canvas and fit also
+it has color tab to pick the color and information tab where it show the info of canvas, layer details tab, layers tab

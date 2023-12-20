@@ -4,10 +4,7 @@ import Dialog_class from '../../../libs/popup.js';
 import Base_layers_class from '../../../core/base-layers.js';
 import alertify from 'alertifyjs/build/alertify.min.js';
 
-/*
-https://github.com/una/CSSgram/blob/master/source/css/toaster.css
-https://github.com/vigetlabs/canvas-instagram-filters
-*/
+
 class Effects_inkwell_class {
 
 	constructor() {

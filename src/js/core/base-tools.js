@@ -1,17 +1,9 @@
-/*
- * miniPaint - https://github.com/viliusle/miniPaint
- * author: Vilius L.
- */
-
 import config from './../config.js';
 import Base_layers_class from './base-layers.js';
 import Base_gui_class from './base-gui.js';
 import app from "../app";
 import Helper_class from "../libs/helpers";
 
-/**
- * Base tools class, can be used for extending on tools like brush, provides various helping methods.
- */
 class Base_tools_class {
 
 	constructor(save_mouse) {

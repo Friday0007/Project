@@ -3,7 +3,7 @@ import config from "../config";
 /**
  * various helpers
  * 
- * @author ViliusL
+ * @author Vaibhav
  */
 class Helper_class {
 

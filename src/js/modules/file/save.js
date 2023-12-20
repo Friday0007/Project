@@ -15,7 +15,7 @@ var instance = null;
 /** 
  * manages files / save
  * 
- * @author ViliusL
+ * @author Vaibhav
  */
 class File_save_class {
 	
