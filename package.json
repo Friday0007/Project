@@ -1,5 +1,5 @@
 {
-  "name": "miniPaint",
+  "name": "SnapEdit",
   "version": "4.13.0",
   "author": "Vilius L.",
   "description": "Online graphics editing tool lets create, edit images using HTML5 technologies.",
@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/viliusle/miniPaint"
+    "url": "https://github.com/viliusle/SnapEdit"
   },
-  "homepage": "https://github.com/viliusle/miniPaint",
+  "homepage": "https://github.com/viliusle/SnapEdit",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.5",
